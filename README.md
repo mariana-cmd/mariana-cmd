@@ -1,6 +1,6 @@
 ## Hi, I'm Mariana!
 
-💻 Studying Computer Science at Arizona State University
+compsci student
 
 <!--
 **mariana-cmd/mariana-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
